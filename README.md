@@ -112,7 +112,7 @@ http://127.0.0.1:8000/docs (API não é pública)
   "sexo": 1,
   "frequencia_cardiaca": 140,
   "pressao_sistolica": 160,
-  "temperatura": 39,
+  "temperatura": 37,
   "historico_doenca": 1,
   "ocupacao_hospital": 0.9,
   "tempo_chegada": 10
