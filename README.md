@@ -1,11 +1,10 @@
-# Projeto-IA-Hospitalar
-# 🧠 IA para Otimização de Atendimento Hospitalar
+# IA para Otimização de Atendimento Hospitalar
 
 Projeto de Inteligência Artificial desenvolvido para melhorar a eficiência no atendimento hospitalar por meio da classificação automática de prioridade de pacientes.
 
 ---
 
-## 🎯 Objetivo
+## Objetivo
 
 Desenvolver um modelo de rede neural capaz de:
 
@@ -16,7 +15,7 @@ Desenvolver um modelo de rede neural capaz de:
 
 ---
 
-## 🧩 Tecnologias utilizadas
+## Tecnologias utilizadas
 
 * Python
 * PyTorch
@@ -27,7 +26,7 @@ Desenvolver um modelo de rede neural capaz de:
 
 ---
 
-## 🧠 Modelo de IA
+## Modelo de IA
 
 Foi desenvolvido um modelo de rede neural multicamadas (MLP) com:
 
@@ -36,15 +35,15 @@ Foi desenvolvido um modelo de rede neural multicamadas (MLP) com:
 * Dropout para evitar overfitting
 * Treinamento supervisionado
 
-### 📊 Resultados
+### Resultados
 
-* Acurácia: **81%**
+* Acurácia: 81%
 * Bom desempenho na identificação de casos críticos (emergência)
 * Uso de balanceamento de classes para melhorar o modelo
 
 ---
 
-## 📥 Variáveis de entrada
+## Variáveis de entrada
 
 O modelo utiliza os seguintes dados do paciente:
 
@@ -59,7 +58,7 @@ O modelo utiliza os seguintes dados do paciente:
 
 ---
 
-## 📤 Saída
+## Saída
 
 O modelo retorna a classificação da prioridade:
 
@@ -69,7 +68,7 @@ O modelo retorna a classificação da prioridade:
 
 ---
 
-## 🚀 Como executar o projeto
+## Como executar o projeto
 
 ### 1. Clonar o repositório
 
@@ -100,13 +99,11 @@ uvicorn app:app --reload
 
 Abra no navegador:
 
-```bash
 http://127.0.0.1:8000/docs
-```
 
 ---
 
-## 🧪 Exemplo de uso
+## Exemplo de uso
 
 ### Entrada
 
@@ -133,7 +130,7 @@ http://127.0.0.1:8000/docs
 
 ---
 
-## 💡 Diferenciais do projeto
+## Diferenciais do projeto
 
 * Aplicação prática de Inteligência Artificial na área da saúde
 * API funcional com previsão em tempo real
@@ -142,7 +139,7 @@ http://127.0.0.1:8000/docs
 
 ---
 
-## 📌 Próximos passos
+## Próximos passos
 
 * Deploy em nuvem (Render ou similar)
 * Integração com dashboards (Power BI)
@@ -151,9 +148,10 @@ http://127.0.0.1:8000/docs
 
 ---
 
-## 👨‍💻 Autor
+## Autor
 
 Isaac Donateli
 Analista de Dados | BI | Inteligência Artificial
 
 ---
+
