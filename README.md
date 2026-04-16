@@ -95,12 +95,11 @@ uvicorn app:app --reload
 
 ---
 
-### 4. Acessar a documentação
+## 4. Como acessar a API
 
-Abra no navegador:
+Após executar o projeto localmente:
 
-http://127.0.0.1:8000/docs
-
+http://127.0.0.1:8000/docs (API não é pública)
 ---
 
 ## Exemplo de uso
